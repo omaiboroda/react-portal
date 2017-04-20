@@ -1,8 +1,9 @@
-React-portal
+react-portal-fork
 ============
-[![npm version](https://img.shields.io/npm/v/react-portal.svg?style=flat-square)](https://www.npmjs.com/package/react-portal)
-[![npm downloads](https://img.shields.io/npm/dm/react-portal.svg?style=flat-square)](https://www.npmjs.com/package/react-portal)
-[![Build Status](https://travis-ci.org/tajo/react-portal.svg?branch=master)](https://travis-ci.org/tajo/react-portal)
+[![npm version](https://img.shields.io/npm/v/react-portal.svg?style=flat-square)](https://www.npmjs.com/package/react-portal-fork)
+[![npm downloads](https://img.shields.io/npm/dm/react-portal.svg?style=flat-square)](https://www.npmjs.com/package/react-portal-fork)
+
+forked from https://github.com/tajo/react-portal and fixes [#124](https://github.com/tajo/react-portal/pull/124) 
 
 > Struggling with modals, lightboxes or loading bars in React? React-portal creates a new top-level React tree and injects its child into it. That's necessary for proper styling (especially positioning).
 
